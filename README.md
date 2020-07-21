@@ -1,2 +1,4 @@
 # DrivenData-DengAI-CNN
-![](uploads/forteen.png)
+![](uploads/best.png)
+
+21/07/2020
